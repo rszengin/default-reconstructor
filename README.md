@@ -1,2 +1,2 @@
 # default-reconstructor
-Recalls default constructor with a simple assignment
+Resets the object under consideration via calling default constructor with a simple assignment
