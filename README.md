@@ -57,9 +57,7 @@ int main() {
 	return 0;
 }
 ```
-
-#### Output
-
+#### Output:
 ```
 Reloaded
 bang, bang, bang, Empty
