@@ -57,3 +57,16 @@ int main() {
 	return 0;
 }
 ```
+
+#### Output
+
+```
+Reloaded
+bang, bang, bang, Empty
+Empty
+Empty
+Reloaded
+bang, bang, bang, Empty
+Reloaded
+bang, bang, bang, Empty
+```
